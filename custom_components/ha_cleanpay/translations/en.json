@@ -2,7 +2,7 @@
     "config": {
         "step": {
             "user": {
-                "description": "If you need help with the configuration have a look here: https://github.com/madeddie/ha_cleanpay",
+                "description": "If you need help with the configuration have a look at github:madeddie/ha_cleanpay",
                 "data": {
                     "username": "Username",
                     "password": "Password"
