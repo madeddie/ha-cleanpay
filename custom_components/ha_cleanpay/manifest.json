@@ -1,0 +1,12 @@
+{
+  "domain": "ha_cleanpay",
+  "name": "KioSoft CleanPay",
+  "codeowners": [
+    "@madeddie"
+  ],
+  "config_flow": true,
+  "documentation": "https://github.com/madeddie/ha_cleanpay",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/madeddie/ha_cleanpay/issues",
+  "version": "0.1.0"
+}
